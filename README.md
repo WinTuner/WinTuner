@@ -1,16 +1,16 @@
-## Hi there 👋
+## 🇹🇭 Hi, I'm Nut 👋
 
-<!--
-**WinTuner/WinTuner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A passionate software developer who loves building efficient digital solutions and optimizing systems for peak performance.
 
-Here are some ideas to get you started:
+Driven by back-end development, infrastructure planning, and continuous data-driven self-improvement.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Coding Journey
+
+I Mostly Code in
+
+```text
+TypeScript    ████████████░░░░░░░░░░░░░░ 45.00 %
+JavaScript    ██████░░░░░░░░░░░░░░░░░░░░ 25.00 %
+Java          ████░░░░░░░░░░░░░░░░░░░░░░ 15.00 %
+HTML/CSS      ██░░░░░░░░░░░░░░░░░░░░░░░░ 10.00 %
+Shell         █░░░░░░░░░░░░░░░░░░░░░░░░░  5.00 %
