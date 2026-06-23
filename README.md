@@ -4,13 +4,13 @@ A passionate software developer who loves building efficient digital solutions a
 
 Driven by back-end development, infrastructure planning, and continuous data-driven self-improvement.
 
-### 🚀 Coding Journey
+### 🚀 Coding Journey & Statistics
 
-I Mostly Code in
-
-```text
-TypeScript    ████████████░░░░░░░░░░░░░░ 45.00 %
-JavaScript    ██████░░░░░░░░░░░░░░░░░░░░ 25.00 %
-Java          ████░░░░░░░░░░░░░░░░░░░░░░ 15.00 %
-HTML/CSS      ██░░░░░░░░░░░░░░░░░░░░░░░░ 10.00 %
-Shell         █░░░░░░░░░░░░░░░░░░░░░░░░░  5.00 %
+<p align="left">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=WinTuner&show_icons=true&theme=transparent&hide_border=true&custom_title=Nut%27s%20GitHub%20Stats" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=WinTuner&layout=compact&theme=transparent&hide_border=true&langs_count=6" />
+  </a>
+</p>
