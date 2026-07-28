@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <a href="https://your-deployed-dashboard.vercel.app" target="_blank">
+  <a href="https://github-realtime-dashboard.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Live-GitHub%20Real--time%20Dashboard-36BCF7?style=for-the-badge&logo=github&logoColor=white" alt="Live Dashboard" />
   </a>
   <img src="https://img.shields.io/badge/Status-Connected%20%26%20Live-10B981?style=for-the-badge&logo=statuspage&logoColor=white" alt="Live Status" />
