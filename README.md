@@ -14,17 +14,23 @@ I am a passionate software developer who loves building efficient digital soluti
 
 ### 🛠️ Tech Stack & Languages
 
-#### **Languages & Runtimes**
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-
-#### **Database & Infrastructure**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=go,py,nodejs,ts,postgres,docker,k8s,git" alt="Tech Stack" />
+  </a>
+</p>
 
 ---
 
-### 📊 Stats
+### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180" src="https://github-stats-extended.vercel.app/api?username=WinTuner&show_icons=true&theme=tokyonight&hide_border=true" alt="WinTuner's GitHub Stats" />
-  <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=WinTuner&layout=compact&theme=tokyonight&hide_border=true" alt="WinTuner's Top Languages" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=WinTuner&show_icons=true&theme=tokyonight&hide_border=true" alt="WinTuner's GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WinTuner&layout=compact&theme=tokyonight&hide_border=true" alt="WinTuner's Top Languages" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=WinTuner&theme=tokyonight&hide_border=true" alt="Contribution Graph" />
+</p>
+
+---
