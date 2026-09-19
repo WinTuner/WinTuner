@@ -42,6 +42,13 @@ I am a passionate software developer who loves building efficient digital soluti
 | [Appointment-Booking-System-API-682110174](https://github.com/WinTuner/Appointment-Booking-System-API-682110174) | Kotlin, Ktor | RESTful booking API with CRUD for Services & Appointments, double-booking prevention, 49 tests passing |
 | [DotDoctor](https://github.com/WinTuner/DotDoctor) | Go | Config doctor and dependency checker for Hyprland and modular dotfiles |
 
+### 🤝 Open Source Contributions
+
+| Project | Role | Contribution |
+| ------- | ---- | ------------ |
+| [AutoOS](https://github.com/tinodin/AutoOS) ([fork](https://github.com/WinTuner/AutoOS)) | Contributor | App install selection PRs: Zed editor ([#75](https://github.com/tinodin/AutoOS/pull/75)), MPC-HC player ([#76](https://github.com/tinodin/AutoOS/pull/76)), LatencyMon ([#77](https://github.com/tinodin/AutoOS/pull/77)) — Native AOT WinUI 3, C# |
+| [SynToolkit](https://github.com/Synergy-Tweaks/SynToolkit) ([fork](https://github.com/WinTuner/SynToolkit)) | Contributor | Thai localization ([#24](https://github.com/Synergy-Tweaks/SynToolkit/pull/24)) — C# |
+
 ---
 
 ### 📊 GitHub Stats
