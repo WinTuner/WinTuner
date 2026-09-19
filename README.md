@@ -2,7 +2,7 @@
 
 Backend & Infrastructure enthusiast focused on building high-performance systems and optimizing digital solutions.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-thanatphong.is-a.dev-58a6ff?style=flat&logo=vercel&logoColor=white)](https://thanatphong.is-a.dev/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-thanatphong.vercel.app-58a6ff?style=flat&logo=vercel&logoColor=white)](https://thanatphong.vercel.app/)
 [![Dashboard](https://img.shields.io/badge/Dashboard-live-3fb950?style=flat&logo=vercel&logoColor=white)](https://github-realtime-dashboard.vercel.app)
 [![Email](https://img.shields.io/badge/Email-Thanatphong2719@gmail.com-ea4335?style=flat&logo=gmail&logoColor=white)](mailto:thanatphong2719@gmail.com)
 
@@ -37,7 +37,7 @@ I am a passionate software developer who loves building efficient digital soluti
 
 | Project | Stack | What it is |
 | ------- | ----- | ---------- |
-| [CV / Portfolio](https://github.com/WinTuner/CV) — [live](https://thanatphong.is-a.dev/) | Next.js 16, React 19, TS, Tailwind v4 | Bilingual EN/TH portfolio with live GitHub activity and Notion-backed blog |
+| [CV / Portfolio](https://github.com/WinTuner/CV) — [live](https://thanatphong.vercel.app/) | Next.js 16, React 19, TS, Tailwind v4 | Bilingual EN/TH portfolio with live GitHub activity and Notion-backed blog |
 | [github-realtime-dashboard](https://github.com/WinTuner/github-realtime-dashboard) — [live](https://github-realtime-dashboard.vercel.app) | TypeScript, Vercel | Live GitHub activity dashboard, deployed on Vercel |
 | [Appointment-Booking-System-API-682110174](https://github.com/WinTuner/Appointment-Booking-System-API-682110174) | Kotlin, Ktor | RESTful booking API with CRUD for Services & Appointments, double-booking prevention, 49 tests passing |
 | [DotDoctor](https://github.com/WinTuner/DotDoctor) | Go | Config doctor and dependency checker for Hyprland and modular dotfiles |
@@ -66,6 +66,6 @@ I am a passionate software developer who loves building efficient digital soluti
 
 ### 📫 Connect
 
-- 🌐 Portfolio: [thanatphong.is-a.dev](https://thanatphong.is-a.dev/)
+- 🌐 Portfolio: [thanatphong.vercel.app](https://thanatphong.vercel.app/)
 - 📡 Live Dashboard: [github-realtime-dashboard.vercel.app](https://github-realtime-dashboard.vercel.app)
 - ✉️ Email: [Thanatphong2719@gmail.com](mailto:thanatphong2719@gmail.com)
