@@ -45,7 +45,7 @@ CMU CAMT student (Digital Industry Integration, GPA 3.40) based in Thailand. Co-
 | ------- | ----- | ---------- |
 | [CV / Portfolio](https://github.com/WinTuner/CV) — [live](https://thanatphong.is-a.dev/) | Next.js 16, React 19, TS, Tailwind v4, Radix | Multilingual EN/TH/JA/ZH portfolio with live GitHub activity, Notion + Medium blog, newsletter + contact webhooks |
 | [ClassMate-AI](https://github.com/WinTuner/ClassMate-AI) — [live](https://classmate-ai-psi.vercel.app) | Next.js, TS, Supabase, ThaiLLM | Local-first RAG study assistant — PDF stays in browser (IndexedDB + TF-IDF), server only proxies ThaiLLM for chat/quiz/summarize, no chat history stored |
-| [Appointment-Booking-System-API-682110174](https://github.com/WinTuner/Appointment-Booking-System-API-682110174) | Kotlin, Ktor | RESTful booking API with CRUD for Services & Appointments, double-booking prevention, 49 tests passing |
+| [Muanjai](https://line.me/R/ti/p/%40636owbhl) — co-founder & CTO ([details](https://thanatphong.is-a.dev/case-study/muanjai)) | Agentic AI, LINE Messaging API, Pathumma LLM, Postgres + pgvector, Docker | AI compliance helper bot (LINE OA + Web) — RAG doc Q&A in Thai, expiry reminders, PromptPay verification, hardened webhook pipeline (240+ tests in CI) |
 | [DotDoctor](https://github.com/WinTuner/DotDoctor) | Go | Config doctor and dependency checker for Hyprland and modular dotfiles |
 | [linux-vs-windows-latency](https://github.com/WinTuner/linux-vs-windows-latency) | C | Scheduling-latency duel (timer + 3 thrashers pinned to CPU 0) — P99 15 µs on PREEMPT Linux vs ms on Win11 DPC |
 
@@ -74,6 +74,7 @@ CMU CAMT student (Digital Industry Integration, GPA 3.40) based in Thailand. Co-
 ### 📫 Connect
 
 - 🌐 Portfolio: [thanatphong.is-a.dev](https://thanatphong.is-a.dev/)
+- 💬 Muanjai LINE OA: [@636owbhl](https://line.me/R/ti/p/%40636owbhl)
 - 🤖 ClassMate-AI: [classmate-ai-psi.vercel.app](https://classmate-ai-psi.vercel.app)
 - 🔗 Links: [linktr.ee/Nattokun](https://linktr.ee/Nattokun)
 - 📸 Instagram: [@thanatphong1](https://www.instagram.com/thanatphong1/)
