@@ -34,17 +34,18 @@ CAMT CMU (Digital Industry Integration, GPA 3.40) · GMT+7 · co-founder & CTO o
 | Project | Stack | What it is |
 | ------- | ----- | ---------- |
 | [Muanjai](https://line.me/R/ti/p/%40636owbhl) ([details](https://thanatphong.is-a.dev/case-study/muanjai)) | Agentic AI, LINE API, Pathumma, pgvector, Docker | Compliance helper bot (LINE OA + Web), RAG Q&A in Thai |
-| [ClassMate-AI](https://github.com/WinTuner/ClassMate-AI) — [live](https://classmate-ai-psi.vercel.app) | Next.js, TS, Supabase, ThaiLLM | Local-first RAG: IndexedDB + TF-IDF in browser |
-| [CV / Portfolio](https://github.com/WinTuner/CV) — [live](https://thanatphong.is-a.dev/) | Next.js 16, React 19, TS, Tailwind v4 | Multilingual portfolio + blog, live GitHub widgets |
-| [DotDoctor](https://github.com/WinTuner/DotDoctor) | Go | Config doctor for Hyprland / modular dotfiles |
-| [linux-vs-windows-latency](https://github.com/WinTuner/linux-vs-windows-latency) | C | Same-core timer duel: P99 15 µs Linux vs ms Windows |
+| [ClassMate-AI](https://github.com/WinTuner/ClassMate-AI) ![stars](https://img.shields.io/github/stars/WinTuner/ClassMate-AI?style=flat) — [live](https://classmate-ai-psi.vercel.app) | Next.js, TS, Supabase, ThaiLLM | Local-first RAG: IndexedDB + TF-IDF in browser |
+| [CV / Portfolio](https://github.com/WinTuner/CV) ![stars](https://img.shields.io/github/stars/WinTuner/CV?style=flat) — [live](https://thanatphong.is-a.dev/) | Next.js 16, React 19, TS, Tailwind v4 | Multilingual portfolio + blog, live GitHub widgets |
+| [DotDoctor](https://github.com/WinTuner/DotDoctor) ![stars](https://img.shields.io/github/stars/WinTuner/DotDoctor?style=flat) | Go | Config doctor for Hyprland / modular dotfiles |
+| [linux-vs-windows-latency](https://github.com/WinTuner/linux-vs-windows-latency) ![stars](https://img.shields.io/github/stars/WinTuner/linux-vs-windows-latency?style=flat) | C | Same-core timer duel: P99 15 µs Linux vs ms Windows |
 
 ### 🤝 Open Source
 
 | Project | Contribution |
 | ------- | ------------ |
-| [AutoOS](https://github.com/tinodin/AutoOS) (C#, ★64) | [8 merged](https://github.com/tinodin/AutoOS/pulls?q=is%3Apr+author%3AWinTuner+is%3Amerged): crash fixes, `.gitattributes`, app picks (Zed, MPC-HC, DS4Windows, WireGuard) |
-| [SynToolkit](https://github.com/Synergy-Tweaks/SynToolkit) (C#, ★8) | [2 merged](https://github.com/Synergy-Tweaks/SynToolkit/pulls?q=is%3Apr+author%3AWinTuner+is%3Amerged): full th_th translation [#20](https://github.com/Synergy-Tweaks/SynToolkit/pull/20), AudioMixer key [#24](https://github.com/Synergy-Tweaks/SynToolkit/pull/24) |
+| [AutoOS](https://github.com/tinodin/AutoOS) (C#) ![stars](https://img.shields.io/github/stars/tinodin/AutoOS?style=flat) | [8 merged](https://github.com/tinodin/AutoOS/pulls?q=is%3Apr+author%3AWinTuner+is%3Amerged): crash fixes, `.gitattributes`, app picks (Zed, MPC-HC, DS4Windows, WireGuard) |
+| [SynToolkit](https://github.com/Synergy-Tweaks/SynToolkit) (C#) ![stars](https://img.shields.io/github/stars/Synergy-Tweaks/SynToolkit?style=flat) | [5 merged](https://github.com/Synergy-Tweaks/SynToolkit/pulls?q=is%3Apr+author%3AWinTuner+is%3Amerged): full th_th translation [#20](https://github.com/Synergy-Tweaks/SynToolkit/pull/20), AudioMixer key [#24](https://github.com/Synergy-Tweaks/SynToolkit/pull/24), Uninstaller tab [#27](https://github.com/Synergy-Tweaks/SynToolkit/pull/27), home header readability [#28](https://github.com/Synergy-Tweaks/SynToolkit/pull/28), smooth tabs [#29](https://github.com/Synergy-Tweaks/SynToolkit/pull/29) |
+| [SynergyOS](https://github.com/Synergy-Tweaks/SynergyOS) (Batchfile) ![stars](https://img.shields.io/github/stars/Synergy-Tweaks/SynergyOS?style=flat) | [1 merged](https://github.com/Synergy-Tweaks/SynergyOS/pulls?q=is%3Apr+author%3AWinTuner+is%3Amerged): laptop brightness + GPU mode fix [#16](https://github.com/Synergy-Tweaks/SynergyOS/pull/16) |
 
 ---
 
