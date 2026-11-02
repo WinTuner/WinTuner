@@ -44,17 +44,8 @@ CAMT CMU (Digital Industry Integration, GPA 3.40) · GMT+7 · co-founder & CTO o
 | Project | Contribution |
 | ------- | ------------ |
 | [AutoOS](https://github.com/tinodin/AutoOS) (C#) | [8 merged](https://github.com/tinodin/AutoOS/pulls?q=is%3Apr+author%3AWinTuner+is%3Amerged): crash fixes, `.gitattributes`, app picks (Zed, MPC-HC, DS4Windows, WireGuard) |
-| [SynToolkit](https://github.com/Synergy-Tweaks/SynToolkit) (C#) | [5 merged](https://github.com/Synergy-Tweaks/SynToolkit/pulls?q=is%3Apr+author%3AWinTuner+is%3Amerged): full th_th translation [#20](https://github.com/Synergy-Tweaks/SynToolkit/pull/20), AudioMixer key [#24](https://github.com/Synergy-Tweaks/SynToolkit/pull/24), Uninstaller tab [#27](https://github.com/Synergy-Tweaks/SynToolkit/pull/27), home header readability [#28](https://github.com/Synergy-Tweaks/SynToolkit/pull/28), smooth tabs [#29](https://github.com/Synergy-Tweaks/SynToolkit/pull/29) |
-| [SynergyOS](https://github.com/Synergy-Tweaks/SynergyOS) (Batchfile) | [1 merged](https://github.com/Synergy-Tweaks/SynergyOS/pulls?q=is%3Apr+author%3AWinTuner+is%3Amerged): laptop brightness + GPU mode fix [#16](https://github.com/Synergy-Tweaks/SynergyOS/pull/16) |
-
----
-
-### 📊 Stats
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=WinTuner&show_icons=true&theme=tokyonight&hide_border=true" alt="WinTuner's GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=WinTuner&layout=compact&langs_count=8&hide=HTML,SCSS,CSS&theme=tokyonight&hide_border=true" alt="WinTuner's Top Languages" />
-</p>
+| [SynToolkit](https://github.com/Synergy-Tweaks/SynToolkit) (C#) | [19 merged](https://github.com/Synergy-Tweaks/SynToolkit/pulls?q=is%3Apr+author%3AWinTuner+is%3Amerged): full th_th translation [#20](https://github.com/Synergy-Tweaks/SynToolkit/pull/20), AudioMixer key [#24](https://github.com/Synergy-Tweaks/SynToolkit/pull/24), Uninstaller tab [#27](https://github.com/Synergy-Tweaks/SynToolkit/pull/27), IMOD device IDs + AMD coverage [#31](https://github.com/Synergy-Tweaks/SynToolkit/pull/31), then a hardening run — display read-back [#38](https://github.com/Synergy-Tweaks/SynToolkit/pull/38), updater download verification [#39](https://github.com/Synergy-Tweaks/SynToolkit/pull/39), restore-point truth [#41](https://github.com/Synergy-Tweaks/SynToolkit/pull/41), atomic portable-app uninstall [#42](https://github.com/Synergy-Tweaks/SynToolkit/pull/42), faster startup [#43](https://github.com/Synergy-Tweaks/SynToolkit/pull/43), double-encoded i18n text repair [#46](https://github.com/Synergy-Tweaks/SynToolkit/pull/46) |
+| [SynergyOS](https://github.com/Synergy-Tweaks/SynergyOS) (Batchfile) | [2 merged](https://github.com/Synergy-Tweaks/SynergyOS/pulls?q=is%3Apr+author%3AWinTuner+is%3Amerged): laptop brightness + GPU mode fix [#16](https://github.com/Synergy-Tweaks/SynergyOS/pull/16), consistent line endings via `.gitattributes` [#18](https://github.com/Synergy-Tweaks/SynergyOS/pull/18) |
 
 ---
 
